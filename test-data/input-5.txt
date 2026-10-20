@@ -1,0 +1,2 @@
+GT4500,1,1,1,0
+TORPEDO,SINGLE #should not fire the second store when the first one fails
