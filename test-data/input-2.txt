@@ -1,0 +1,2 @@
+GT4500,1,0,1,0
+TORPEDO,ALL #should be able to fire in all mode
